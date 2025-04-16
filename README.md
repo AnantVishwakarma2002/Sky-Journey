@@ -4,7 +4,7 @@ SkyJourney is a full-stack web application built with the MERN stack (MongoDB, E
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home-Page](./public/images/1.png)
@@ -27,17 +27,7 @@ SkyJourney is a full-stack web application built with the MERN stack (MongoDB, E
 
 ---
 
-## Tech Stack
-
-| Layer         | Technology           |
-|---------------|----------------------|
-| Frontend      | React.js             |
-| Backend       | Node.js, Express.js |
-| Database      | MongoDB              |
-
----
-
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
