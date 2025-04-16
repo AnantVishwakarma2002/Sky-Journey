@@ -56,7 +56,7 @@ npm install
 ### 3. Install client dependencies
 
 ```bash
-cd ../client
+cd client
 npm install
 ```
 
@@ -76,6 +76,6 @@ npm run dev
 ```
 Start the frontend
 ```bash
-cd ../client
+cd client
 npm start
 ```
