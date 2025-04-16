@@ -1,6 +1,6 @@
-# ✈️ SkyJourney – Flight Booking Website
+# SkyJourney – Flight Booking Website
 
-SkyJourney is a full-stack web application built with the **MERN stack (MongoDB, Express.js, React, Node.js)**. It allows users to **search for flights, view flight details, book tickets**, and **manage their bookings**.
+SkyJourney is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to search for flights, view flight details, book tickets, and manage their bookings.
 
 ---
 
@@ -17,7 +17,7 @@ SkyJourney is a full-stack web application built with the **MERN stack (MongoDB,
 
 ---
 
-## 🚀 Features
+## Features
 
 - User registration and login
 - Search for available flights by location and date
@@ -27,7 +27,7 @@ SkyJourney is a full-stack web application built with the **MERN stack (MongoDB,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer         | Technology           |
 |---------------|----------------------|
